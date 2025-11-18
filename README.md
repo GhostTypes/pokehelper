@@ -17,12 +17,23 @@
 </div>
 
 <div align="center">
-
-- Automated shiny/shundo hunting
-- Works on both rooted and non-rooted devices
-- User-friendly interface
-- Multi-device support (per-device configuration)
-
+<table>
+  <tr>
+    <th>Capability</th>
+  </tr>
+  <tr>
+    <td>Automated shiny/shundo hunting</td>
+  </tr>
+  <tr>
+    <td>Works on both rooted and non-rooted devices</td>
+  </tr>
+  <tr>
+    <td>User-friendly interface</td>
+  </tr>
+  <tr>
+    <td>Multi-device support (per-device configuration)</td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -35,10 +46,27 @@
 
 pokehelper uses Android Debug Bridge (ADB) to connect to your device either wirelessly or via USB. It monitors the game using:
 
-- **Pixel Detection** for real-time game state analysis
-- **OCR (Optical Character Recognition)** to read in-game text and menus
-- **[UI Automator](https://developer.android.com/training/testing/other-components/ui-automator)** for precise interface interaction
+</div>
 
+<div align="center">
+<table>
+  <tr>
+    <th>Technology</th>
+    <th>Purpose</th>
+  </tr>
+  <tr>
+    <td><strong>Pixel Detection</strong></td>
+    <td>Real-time game state analysis</td>
+  </tr>
+  <tr>
+    <td><strong>OCR (Optical Character Recognition)</strong></td>
+    <td>Read in-game text and menus</td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://developer.android.com/training/testing/other-components/ui-automator">UI Automator</a></strong></td>
+    <td>Precise interface interaction</td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -48,12 +76,35 @@ pokehelper uses Android Debug Bridge (ADB) to connect to your device either wire
 </div>
 
 <div align="center">
+<table>
+  <tr>
+    <th>Step</th>
+    <th>Instructions</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Download the release executable</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Connect your phone via USB or wireless ADB</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Set up positions (one-time setup per device)</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Enable desired features</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Let it run!</td>
+  </tr>
+</table>
+</div>
 
-1. Download the release executable
-2. Connect your phone via USB or wireless ADB
-3. Set up positions (one-time setup per device)
-4. Enable desired features
-5. Let it run!
+<div align="center">
 
 > **Note:** Keep your device screen on during operation. OLED screens are not recommended for long sessions.
 
