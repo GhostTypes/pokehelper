@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Language-C%23-blue?style=for-the-badge">
-  <img src="https://img.shields.io/github/downloads/GhostTypes/pokehelper/total?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/GhostTypes/pokehelper?style=for-the-badge">
 </p>
 
