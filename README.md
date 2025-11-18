@@ -16,10 +16,14 @@
   <h2>Main Features</h2>
 </div>
 
+<div align="center">
+
 - Automated shiny/shundo hunting
 - Works on both rooted and non-rooted devices
 - User-friendly interface
 - Multi-device support (per-device configuration)
+
+</div>
 
 ---
 
@@ -27,17 +31,23 @@
   <h2>How does it work?</h2>
 </div>
 
+<div align="center">
+
 pokehelper uses Android Debug Bridge (ADB) to connect to your device either wirelessly or via USB. It monitors the game using:
 
 - **Pixel Detection** for real-time game state analysis
 - **OCR (Optical Character Recognition)** to read in-game text and menus
 - **[UI Automator](https://developer.android.com/training/testing/other-components/ui-automator)** for precise interface interaction
 
+</div>
+
 ---
 
 <div align="center">
   <h2>Quick Setup</h2>
 </div>
+
+<div align="center">
 
 1. Download the release executable
 2. Connect your phone via USB or wireless ADB
@@ -46,6 +56,8 @@ pokehelper uses Android Debug Bridge (ADB) to connect to your device either wire
 5. Let it run!
 
 > **Note:** Keep your device screen on during operation. OLED screens are not recommended for long sessions.
+
+</div>
 
 ---
 
